@@ -1,3 +1,3 @@
 #!/bin/bash
 
-pacman -S --needed $(<packages-official.txt)
+pacman -S --needed $(<arch-pkg.txt)

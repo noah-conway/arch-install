@@ -28,7 +28,6 @@ gimp
 python 
 python-pip 
 texlive-most 
-R
 zathura
 gtop
 youtube-dl
@@ -37,7 +36,6 @@ noto-fonts
 noto-fonts-cjk
 noto-fonts-emoji
 ttf-liberation
-xorg-xserver-xephyr
 
 
 
