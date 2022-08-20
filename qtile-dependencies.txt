@@ -1,0 +1,10 @@
+qtile
+dmenu
+picom
+ttf-bitstream-vera
+networkmanager
+networkmanager-applet
+volumeicon
+kdeconnect
+psutil
+pacman-contrib
