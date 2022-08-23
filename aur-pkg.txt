@@ -1,5 +1,5 @@
 spotify
 soulseekqt
-nerd-fonts-complete
 android-studio
+paru
 
