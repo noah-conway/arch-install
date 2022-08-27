@@ -1,5 +1,5 @@
+paru
 spotify
 soulseekqt
-android-studio
-paru
+steam
 

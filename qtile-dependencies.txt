@@ -3,8 +3,8 @@ dmenu
 picom
 ttf-bitstream-vera
 networkmanager
-networkmanager-applet
+network-manager-applet
 volumeicon
 kdeconnect
-psutil
+python-psutil
 pacman-contrib

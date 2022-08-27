@@ -1,7 +1,7 @@
 base-devel
 linux-headers
 networkmanager
-networkmanager-applet
+network-manager-applet
 dhcpcd
 git
 vim
@@ -17,15 +17,16 @@ rsync
 bash-completion
 man-pages
 man-db
+alsa-utils
 github-cli
 firefox 
-steam 
 vlc
 bitwarden
 musescore
 beets
 gimp
 python 
+python2
 python-pip 
 texlive-most 
 zathura
