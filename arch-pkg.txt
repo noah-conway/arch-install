@@ -1,8 +1,10 @@
 base-devel
 linux-headers
+pacman-contrib
 networkmanager
 network-manager-applet
 dhcpcd
+net-tools
 git
 vim
 curl
@@ -19,24 +21,31 @@ man-pages
 man-db
 alsa-utils
 github-cli
+rofi
 firefox 
 vlc
 bitwarden
-musescore
+mpd
+ncmpcpp
 beets
+musescore
 gimp
 python 
 python2
 python-pip 
 texlive-most 
 zathura
-gtop
+zathura-pdf-mupdf
+galculator
+htop
 youtube-dl
+dunst
 redshift
 noto-fonts
 noto-fonts-cjk
 noto-fonts-emoji
 ttf-liberation
+xorg-fonts-misc
 
 
 
