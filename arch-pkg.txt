@@ -30,6 +30,8 @@ ncmpcpp
 beets
 musescore
 gimp
+pcmanfm
+thunderbird
 python 
 python2
 python-pip 

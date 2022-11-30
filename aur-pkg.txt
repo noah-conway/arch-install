@@ -1,5 +1,7 @@
 paru
 spotify
 soulseekqt
+dmenu-bluetooth
 steam
+steam-runtime
 
