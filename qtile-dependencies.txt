@@ -1,10 +1,10 @@
 qtile
 dmenu
 picom
+polkit-gnome
 ttf-bitstream-vera
 networkmanager
 network-manager-applet
-volumeicon
 kdeconnect
 python-psutil
 pacman-contrib

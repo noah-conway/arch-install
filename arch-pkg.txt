@@ -16,6 +16,7 @@ unrar
 unzip
 tar
 rsync
+lm-sensor
 bash-completion
 man-pages
 man-db
@@ -32,6 +33,7 @@ musescore
 gimp
 pcmanfm
 thunderbird
+qbittorrent
 python 
 python2
 python-pip 
