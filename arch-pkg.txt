@@ -1,6 +1,8 @@
 base-devel
 linux-headers
 pacman-contrib
+xorg-server
+xorg-xinit
 networkmanager
 network-manager-applet
 dhcpcd
@@ -16,13 +18,11 @@ unrar
 unzip
 tar
 rsync
-lm-sensor
+lm_sensors
 bash-completion
 man-pages
 man-db
 alsa-utils
-github-cli
-rofi
 firefox 
 vlc
 bitwarden
@@ -35,7 +35,6 @@ pcmanfm
 thunderbird
 qbittorrent
 python 
-python2
 python-pip 
 texlive-most 
 zathura
@@ -43,7 +42,6 @@ zathura-pdf-mupdf
 galculator
 htop
 youtube-dl
-dunst
 redshift
 noto-fonts
 noto-fonts-cjk

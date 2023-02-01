@@ -1,10 +1,7 @@
 qtile
 dmenu
+rofi
+dunst
 picom
 polkit-gnome
-ttf-bitstream-vera
-networkmanager
-network-manager-applet
-kdeconnect
 python-psutil
-pacman-contrib

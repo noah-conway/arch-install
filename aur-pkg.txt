@@ -2,6 +2,6 @@ paru
 spotify
 soulseekqt
 dmenu-bluetooth
-steam
-steam-runtime
+python2
+nerd-fonts-noto
 
